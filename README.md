@@ -1,5 +1,7 @@
 # About Me
-An MBA Finance and engineering graduate with 8+ years of experience in creating AI solutions that boost revenue, enhance customer satisfaction, optimize supply chain, improve productivity, and generate valuable insights that drive innovation & business growth across diverse industries. Proficient in designing and deploying end-to-end ML architecture using Cloud & MLOps.
+- 🌱 An MBA finance and engineering graduate with a passion for addressing pressing global challenges and building innovative & sustainable AI solutions.
+- 😎 Proficient in designing and deploying end-to-end ML architecture using Cloud & MLOps.
+- 🌍 I am contributing to the community by sharing my knowledge with the world through my blogs.
 
 # Professional Experience
 
