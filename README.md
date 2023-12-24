@@ -3,7 +3,9 @@
 - 😎 Proficient in designing and deploying end-to-end ML architecture using Cloud & MLOps.
 - 🌍 I am contributing to the community by sharing my knowledge with the world through my blogs.
 
-Reach me out 👉 |💼[Portfolio](https://akashmathur-2212.github.io/) | ✉️[akash.mathur2289@gmail.com](mailto:akash.mathur2289@gmail.com) | ✍️[Medium](https://akash-mathur.medium.com/) | 🏢[LinkedIn](https://www.linkedin.com/in/akashmathur22/) | #️⃣[Kaggle](https://www.kaggle.com/akashmathur2212) | 🤗[Space](https://huggingface.co/akash2212) |
+| 🔘 Reach me out 👋 🔘 |
+|---------------|
+|• 💼[Portfolio](https://akashmathur-2212.github.io/) <br/> • ✉️[akash.mathur2289@gmail.com](mailto:akash.mathur2289@gmail.com) <br/> • ✍️[Medium](https://akash-mathur.medium.com/) <br/> • 🏢[LinkedIn](https://www.linkedin.com/in/akashmathur22/) <br/> • #️⃣[Kaggle](https://www.kaggle.com/akashmathur2212) <br/> • 🤗[Space](https://huggingface.co/akash2212) |
 
 ---------------------
 
