@@ -5,7 +5,7 @@
 
 | 🔘 Reach me out 👋 🔘 |
 |---------------|
-|• 💼[Portfolio](https://akashmathur-2212.github.io/) <br/> • ✉️[akash.mathur2289@gmail.com](mailto:akash.mathur2289@gmail.com) <br/> • ✍️[Medium](https://akash-mathur.medium.com/) <br/> • 🏢[LinkedIn](https://www.linkedin.com/in/akashmathur22/) <br/> • #️⃣[Kaggle](https://www.kaggle.com/akashmathur2212) <br/> • 🤗[Space](https://huggingface.co/akash2212) |
+|• 💼[GitHub](https://github.com/akashmathur-2212) <br/> • ✉️[akash.mathur2289@gmail.com](mailto:akash.mathur2289@gmail.com) <br/> • ✍️[Medium](https://akash-mathur.medium.com/) <br/> • 🏢[LinkedIn](https://www.linkedin.com/in/akashmathur22/) <br/> • #️⃣[Kaggle](https://www.kaggle.com/akashmathur2212) <br/> • 🤗[Space](https://huggingface.co/akash2212) |
 
 ---------------------
 
