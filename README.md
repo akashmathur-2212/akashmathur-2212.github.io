@@ -3,9 +3,10 @@
 - 😎 Proficient in designing and deploying end-to-end ML architecture using Cloud & MLOps.
 - 🌍 I am contributing to the community by sharing my knowledge with the world through my blogs.
 
-| 🔘 Reach me out 👋 🔘 |
-|---------------|
-|• 💼[GitHub](https://github.com/akashmathur-2212) <br/> • ✉️[akash.mathur2289@gmail.com](mailto:akash.mathur2289@gmail.com) <br/> • ✍️[Medium](https://akash-mathur.medium.com/) <br/> • 🏢[LinkedIn](https://www.linkedin.com/in/akashmathur22/) <br/> • #️⃣[Kaggle](https://www.kaggle.com/akashmathur2212) <br/> • 🤗[Space](https://huggingface.co/akash2212) |
+🔘 Reach me out 👇 🔘
+| Github | Email | Blogs | LinkedIn | Kaggle | Space | 
+|-----|-----|-----|-----|-----|-----| 
+| 💼[GitHub](https://github.com/akashmathur-2212) | ✉️[akash.mathur2289@gmail.com](mailto:akash.mathur2289@gmail.com) | ✍️[Medium](https://akash-mathur.medium.com/) | 🏢[LinkedIn](https://www.linkedin.com/in/akashmathur22/) | #️⃣[Kaggle](https://www.kaggle.com/akashmathur2212) | 🤗[Space](https://huggingface.co/akash2212) |
 
 ---------------------
 
@@ -36,15 +37,16 @@
 ---------------------
 
 # Projects
-Developed versatile [applications](https://github.com/akashmathur-2212/LLMs-playground) powered by Large Language Model (LLM), including conversational AI chatbot, semantic search and text summarization, integrating innovative methods like RAG and LLM fine-tuning coupled with UI creation using Streamlit.
+- Developed versatile applications powered by Large Language Model (LLM), including conversational AI chatbot, semantic search and text summarization, coupled with UI creation using LangChain and LlamaIndex.
+- Implemented fine tuning strategies in RAG applications, optimizing both ingestion (chunking, metadata, multi-indexing) and inferencing (query transformations, advanced retrieval strategies, re-ranking) stages for enhanced performance
 
 ---------------------
 
 # Technical Skills
 
-| 🔘 My **Top** Technologies 🔘 | 🔘 My **Top** Interests 🔘 |
+| 🔘 **Top** Technologies 🔘 | 🔘 **Top** Interests 🔘 |
 |---------------|--------------|
-| • **Languages**: Python, SQL, Spark <br/> • **Machine Learning**: Scikit-Learn, PyTorch, [**LangChain**](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications), [**LlamaIndex**](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications), [**Faiss**](https://github.com/akashmathur-2212/Recommendation-System-Playground), NumPy, Pandas, MLflow, TensorFlow, NLTK, spaCy, OpenCV <br/> • **Cloud**: [**AWS**](https://github.com/akashmathur-2212/aws-serverless-workflows) (SageMaker, Lambda, Batch, Step Functions, ECS, ECR, API Gateway, S3), Azure (Machine Learning, Data Factory, Databricks), <br/> • **DevOps**: Docker, Terraform, CI/CD, Git, GitLab <br/> • **Visualization**: Tableau, Power BI <br/> • **Database**: MySQL, SQLite <br/> | • Generative AI <br/> • NLP <br/> • Recommendation Systems <br/> • MLOps <br/> • Stock Market Analysis, Macroeconomics <br/> • Swimming, Yoga, Meditation, Cooking <br/>|
+| • **Languages**: Python, SQL, Spark <br/> • **Machine Learning**: Scikit-Learn, PyTorch, [LangChain](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications), [LlamaIndex](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications), [Faiss](https://github.com/akashmathur-2212/Recommendation-System-Playground), NumPy, Pandas, MLflow, TensorFlow, NLTK, spaCy, OpenCV <br/> • **Cloud**: [AWS](https://github.com/akashmathur-2212/aws-serverless-workflows) (SageMaker, Lambda, Batch, Step Functions, ECS, ECR, API Gateway, S3), Azure (Machine Learning, Data Factory, Databricks), <br/> • **DevOps**: Docker, Terraform, CI/CD, Git, GitLab <br/> • **Visualization**: [Tableau](https://www.credly.com/badges/e1b80197-3e03-4bdb-b124-8282b1713182?source=linked_in_profile), Power BI <br/> • **Database**: MySQL, SQLite <br/> | • Generative AI <br/> • NLP <br/> • Recommendation Systems <br/> • MLOps <br/> • Stock Market Analysis, Macroeconomics <br/> • Swimming, Yoga, Meditation, Cooking <br/>|
 
 ---------------------
 
