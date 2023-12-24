@@ -41,6 +41,12 @@ Developed versatile [applications](https://github.com/akashmathur-2212/LLMs-play
 ---------------------
 
 # Technical Skills
+
+| 🔘 My **Top** Technologies 🔘 | 🔘 My **Top** Interests 🔘 |
+|---------------|--------------|
+| • **Languages**: Python, SQL, Spark <br/> • **Machine Learning**: Scikit-Learn, PyTorch, LangChain, LlamaIndex, NumPy, Pandas, MLflow, TensorFlow, NLTK, spaCy, OpenCV <br/> • **Cloud**: [**AWS**](https://github.com/akashmathur-2212/aws-serverless-workflows) (SageMaker, Lambda, Batch, Step Functions, ECS, ECR, API Gateway, S3), Azure (Machine Learning, Data Factory, Databricks), <br/> • **DevOps**: Docker, Terraform, CI/CD, Git, GitLab <br/> • **Visualization**: Tableau, Power BI <br/> • **Database**: MySQL, SQLite <br/> | • Generative AI <br/> • NLP <br/> • Recommendation Systems <br/> • MLOps <br/> • Stock Market Analysis, Macroeconomics <br/> • Swimming, Yoga, Meditation, Cooking <br/>|
+
+
 - **Languages and Tools**: Python, SQL, Spark, Azure Databricks, PowerShell, MySQL
 - **Machine Learning**: [AWS](https://github.com/akashmathur-2212/aws-serverless-workflows) (SageMaker, Lambda, Batch, Step Functions, ECS, ECR, API Gateway, S3), Azure (Machine Learning, Data Factory, Databricks), [LangChain](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications), [LlamaIndex](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications), [Faiss](https://github.com/akashmathur-2212/Recommendation-System-Playground), MLflow, Scikit-learn, TensorFlow, PyTorch, Hugging Face, NLTK, spaCy, OpenCV
 - **DevOps**: Docker, Terraform, CI/CD, Git, GitLab, GitLab runner
