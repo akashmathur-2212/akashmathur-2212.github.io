@@ -65,8 +65,6 @@
 |---------------|--------------|
 | • **Languages**: Python, SQL, Spark <br/> • **Machine Learning**: Scikit-Learn, PyTorch, [LangChain](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications), [LlamaIndex](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications), [Faiss](https://github.com/akashmathur-2212/Recommendation-System-Playground), NumPy, Pandas, MLflow, TensorFlow, NLTK, spaCy, OpenCV <br/> • **Cloud**: [AWS](https://github.com/akashmathur-2212/aws-serverless-workflows) (SageMaker, Lambda, Batch, Step Functions, ECS, ECR, API Gateway, S3), Azure (Machine Learning, Data Factory, Databricks), <br/> • **DevOps**: Docker, Terraform, CI/CD, Git, GitLab <br/> • **Visualization**: [Tableau](https://www.credly.com/badges/e1b80197-3e03-4bdb-b124-8282b1713182?source=linked_in_profile), Power BI <br/> • **Database**: MySQL, SQLite <br/> | • Generative AI <br/> • NLP <br/> • Recommendation Systems <br/> • MLOps <br/> • Stock Market Analysis, Macroeconomics <br/> • Swimming, Yoga, Meditation, Cooking <br/>|
 
----------------------
-
 # Education
 - **Post Graduate Diploma in Management - Financial Services** | K J Somaiya Institute of Management, Mumbai, India | 2013-2015 
 - **Bachelor of Technology - Electronics & Communication** | Rajasthan Technical University, India | 2008-2012
