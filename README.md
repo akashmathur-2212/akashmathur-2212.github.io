@@ -42,9 +42,9 @@
 - Implemented fine-tuning strategies in `RAG` applications, optimizing both ingestion (`chunking, metadata, multi-indexing`) and inferencing (`query transformations, advanced retrieval strategies, re-ranking`) stages for enhanced performance
 
 ## 1. Conversational AI with LLM Fine-Tuning and RAG using LangChain & LlamaIndex
-- Comprehensive Guide to Customize your `Llama2` ChatBot using LlamaIndex and Streamlit [Medium](https://akash-mathur.medium.com/comprehensive-guide-to-customize-your-llama2-chatbot-with-llamaindex-and-streamlit-76bbd041eafc) | [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/llama2-multi-documents-chatbot) <br/>
-- `Mistral-7B-Instruct` Based Multi-PDFs ChatBot using LangChain and Streamlit [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/mistral_7B-multiPDF-chatbot) <br/>
-- `Llama2-7B` Based CSV ChatBot using LangChain [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/llama2-chat-with-CSV) <br/>
+- Comprehensive Guide to Customize your `Llama2` ChatBot using LlamaIndex and Streamlit [Medium](https://akash-mathur.medium.com/comprehensive-guide-to-customize-your-llama2-chatbot-with-llamaindex-and-streamlit-76bbd041eafc) | [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/llama2-multi-documents-chatbot)
+- `Mistral-7B-Instruct` Based Multi-PDFs ChatBot using LangChain and Streamlit [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/mistral_7B-multiPDF-chatbot)
+- `Llama2-7B` Based CSV ChatBot using LangChain [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/llama2-chat-with-CSV)
 - Elevating `Mistral-7B’s` Performance through Finetuning using QLoRA [Medium](https://akash-mathur.medium.com/elevating-mistral-7bs-performance-through-qlora-b2504cf7c2fe) | [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/mistral-finetune-using-LoRA)
 - `T5` Fine Tuning & Evaluation for Text Summarization [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/finetuned-text-summarizer)
 - `Falcon-7B` Based Video 🎬 Summarization using Langchain [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/Video-Summarization-Langchain)
