@@ -1,12 +1,11 @@
+✶_Data is how we listen to reality, but data science is how we translate what we hear into something we can understand._✶
+
 # About Me
 - 🌱 An MBA finance and engineering graduate with a passion for addressing pressing global challenges and building innovative & sustainable AI solutions.
 - 😎 Proficient in designing and deploying end-to-end ML architecture using Cloud & MLOps.
-- 🌍 I am contributing to the community by sharing my knowledge with the world through my blogs.
 
 🔘 Reach me out 👇 🔘
 
-<!--| Github | Email | Blogs | LinkedIn | Kaggle | Space | 
-|-----|-----|-----|-----|-----|-----|-->
 📁[GitHub](https://github.com/akashmathur-2212) | ✉️[akash.mathur2289@gmail.com](mailto:akash.mathur2289@gmail.com) | ✍️[Medium](https://akash-mathur.medium.com/) | 🏢[LinkedIn](https://www.linkedin.com/in/akashmathur22/) | #️⃣[Kaggle](https://www.kaggle.com/akashmathur2212) | 🤗[Space](https://huggingface.co/akash2212) |
 
 ---------------------
@@ -48,8 +47,8 @@
 - Elevating `Mistral-7B’s` Performance through Finetuning using QLoRA [[Medium](https://akash-mathur.medium.com/elevating-mistral-7bs-performance-through-qlora-b2504cf7c2fe), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/mistral-finetune-using-LoRA)]
 - `T5` Fine Tuning & Evaluation for Text Summarization [[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/finetuned-text-summarizer)]
 - `Falcon-7B` Based Video 🎬 Summarization using Langchain [[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/Video-Summarization-Langchain)]
-- `Audio` Generation using Audio Craft [[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/AI-Audio-Generation)] <br/>
-
+- 🎵`Audio` Generation🎹 using Audio Craft [[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/AI-Audio-Generation)] <br/>
+  
 **Advanced RAG**📚📒
 - Optimizing Retrieval with Additional `Context` & `MetaData` using LlamaIndex [[Medium](https://akash-mathur.medium.com/advanced-rag-optimizing-retrieval-with-additional-context-metadata-using-llamaindex-aeaa32d7aa2f), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/parent_child_document_retriever)] <br/>
 
