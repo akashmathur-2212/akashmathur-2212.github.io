@@ -17,29 +17,51 @@
 *Senior Data Scientist – Automotive Supply Chain Technology & Aftermarket (Jun 2021 – Present)*
 
 - Launched an ML product that uncovers market trends and forecasts Vehicles Scrappage helping businesses to identify recycling trends. It was integrated into several downstream products, contributing to sustainable value creation and revenue growth.
-- Engineered a CI/CD integrated serverless workflow leveraging AWS and Docker. Automated the infrastructure workflow with Terraform for managing, versioning, and collaborating on infrastructure changes.
-- Reduced daily news processing time by 80% by building and deploying a CI/CD integrated serverless AWS workflow. It recommends top-N news articles based on similarity search (Faiss) and abstractive news summarization using FLAN-T5 model. 
-- Improved customer satisfaction and product quality by building and deploying a serverless AWS workflow that identifies prevalent issues using topic modelling (BERTopic) and Sentiment Analysis using BERT to analyse customer reviews. 
-- Accelerated performance by 10X through optimization of a long-running query using Spark, processing gigabytes of data on Azure Databricks, and deriving actionable insights for internal stakeholders using Power BI.
+- Engineered a `CI/CD` integrated `serverless` workflow leveraging AWS and Docker. Automated the infrastructure workflow with Terraform for managing, versioning, and collaborating on infrastructure changes.
+- Reduced daily news processing time by `80%` by building and deploying a CI/CD integrated `serverless` AWS workflow. It recommends top-N news articles based on similarity search (`Faiss`) and abstractive news summarization using `FLAN-T5` model. 
+- Improved customer satisfaction and product quality by building and deploying a `serverless` AWS workflow that identifies prevalent issues using topic modelling (`BERTopic`) and Sentiment Analysis using `BERT` to analyse customer reviews. 
+- Accelerated performance by `10X` through optimization of a long-running query using Spark, processing gigabytes of data on Azure Databricks, and deriving actionable insights for internal stakeholders using `Power BI`.
 
 ## Bank of America – Gurugram, India
 *Assistant Manager - Quantitative Modelling (Nov 2018 – Jun 2021)*
 
-- Improved bank’s risk and capital management by forecasting Equities Trading Account Profit revenue for 9 quarters using Linear Regression under several economic scenarios as a part of regulatory requirement using Azure Machine Learning. 
-- Reduced monthly processing time by 90% by constructing automated ETL pipelines for large-scale Non-Interest Income data using Azure Databricks. Integrated the output into various downstream products crucial for revenue forecasting.
+- Improved bank’s risk and capital management by forecasting Equities Trading Account Profit revenue for 9 quarters using Linear Regression under several economic scenarios as a part of regulatory requirement using `Azure Machine Learning`. 
+- Reduced monthly processing time by `90%` by constructing automated ETL pipelines for large-scale Non-Interest Income data using `Azure Databricks`. Integrated the output into various downstream products crucial for revenue forecasting.
 - Demonstrated proficiency in Information Extraction through the integration of diverse data sources, including text, PDFs, APIs, and scanned images with OCR, to construct robust data pipelines for multiple downstream tasks.
 
 ## CREDIT SUISSE – Pune, India
 *Client Finance Analytics - Global Markets Technology (May 2015 – Nov 2018)*
 
 - Improved risk management through the identification of high-risk hedge fund investors by performing exploratory data analysis (EDA) and constructing a Machine Learning model with an AUC-ROC score of 0.82 using Random Forest.
-- Optimized product offerings by 40% through the implementing Dimensionality Reduction and Clustering Techniques, including K-Means and DBSCAN, to identify and analyse distinct client groups, thereby gaining valuable insights into their behaviour.
+- Optimized product offerings by 40% through the implementation of Dimensionality Reduction and Clustering Techniques, including `K-Means` and `DBSCAN`, to identify and analyse distinct client groups, thereby gaining valuable insights into their behaviour.
 
 ---------------------
 
 # Projects
-- Developed versatile applications powered by Large Language Model (LLM), including conversational AI chatbot, semantic search and text summarization, coupled with UI creation using LangChain and LlamaIndex.
-- Implemented fine tuning strategies in RAG applications, optimizing both ingestion (chunking, metadata, multi-indexing) and inferencing (query transformations, advanced retrieval strategies, re-ranking) stages for enhanced performance
+- Developed versatile applications powered by `Large Language Model (LLM)`, including conversational AI `chatbot`, `semantic search` and `text summarization`, coupled with UI creation using `LangChain` and `LlamaIndex`.
+- Implemented fine-tuning strategies in `RAG` applications, optimizing both ingestion (`chunking, metadata, multi-indexing`) and inferencing (`query transformations, advanced retrieval strategies, re-ranking`) stages for enhanced performance
+
+## 1. Conversational AI with LLM Fine-Tuning and RAG using LangChain🦜️ & LlamaIndex🦙
+| Title         | [Medium](https://medium.com/@akash-mathur) |  Repository   |
+| ------------- | ------------- | ------------- |
+| Comprehensive Guide to Customize your `Llama2` ChatBot using LlamaIndex and Streamlit | [🔗](https://akash-mathur.medium.com/comprehensive-guide-to-customize-your-llama2-chatbot-with-llamaindex-and-streamlit-76bbd041eafc) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/llama2-multi-documents-chatbot)|
+| `Mistral-7B-Instruct` Based Multi-PDFs ChatBot using LangChain and Streamlit | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/mistral_7B-multiPDF-chatbot) |
+| `Llama2-7B` Based CSV ChatBot using LangChain | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/llama2-chat-with-CSV) |
+| Elevating `Mistral-7B’s` Performance through Finetuning using QLoRA | [🔗](https://akash-mathur.medium.com/elevating-mistral-7bs-performance-through-qlora-b2504cf7c2fe) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/mistral-finetune-using-LoRA) |
+| `T5` Fine Tuning & Evaluation for Text Summarization | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/finetuned-text-summarizer) |
+| `Falcon-7B` Based Video 🎬 Summarization using Langchain | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/Video-Summarization-Langchain) |
+| 🎵 Audio Generation 🎹 using Audio Craft | | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/AI-Audio-Generation) |
+
+### 1.1 Advanced RAG 📚📒
+| Title         | [Medium](https://medium.com/@akash-mathur) |  Repository   |
+| ------------- | ------------- | ------------- |
+| Optimizing Retrieval with Additional `Context` & `MetaData` using LlamaIndex🦙 | [🔗](https://akash-mathur.medium.com/advanced-rag-optimizing-retrieval-with-additional-context-metadata-using-llamaindex-aeaa32d7aa2f) | [🔗](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/parent_child_document_retriever) |
+
+## 2. Deploying LLMs ☁️
+| Title         | [Medium](https://medium.com/@akash-mathur) |  Repository   |  
+| ------------- | ------------- | ------------- |
+| Serverless Magic with Lambda, SageMaker DLC, and API Gateway | [🔗](https://medium.com/@akash-mathur/deploying-llms-serverless-magic-with-lambda-sagemaker-dlc-and-api-gateway-1bf99517d43e)  | [🔗](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/LLM-Endpoint-Deployment-Inference)|
+| Vector Indexing and ANN using `FAISS` with AWS Serverless Architecture | [🔗](https://akash-mathur.medium.com/unlocking-faiss-for-efficient-search-vector-indexing-and-ann-with-serverless-architecture-5b2b59ead20f)  | [🔗](https://github.com/akashmathur-2212/Recommendation-System-Playground/tree/main/faiss-similarity-search)|
 
 ---------------------
 
