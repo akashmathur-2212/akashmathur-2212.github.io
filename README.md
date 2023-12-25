@@ -41,21 +41,21 @@
 - Developed versatile applications powered by `Large Language Model (LLM)`, including conversational AI `chatbot`, `semantic search` and `text summarization`, coupled with UI creation using `LangChain` and `LlamaIndex`.
 - Implemented fine-tuning strategies in `RAG` applications, optimizing both ingestion (`chunking, metadata, multi-indexing`) and inferencing (`query transformations, advanced retrieval strategies, re-ranking`) stages for enhanced performance
 
-## 1. Conversational AI with LLM Fine-Tuning and RAG using LangChain🦜️ & LlamaIndex🦙
-- Comprehensive Guide to Customize your `Llama2` ChatBot using LlamaIndex and Streamlit ✍️[Medium](https://akash-mathur.medium.com/comprehensive-guide-to-customize-your-llama2-chatbot-with-llamaindex-and-streamlit-76bbd041eafc) | 📁[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/llama2-multi-documents-chatbot) <br/>
-- `Mistral-7B-Instruct` Based Multi-PDFs ChatBot using LangChain and Streamlit 📁[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/mistral_7B-multiPDF-chatbot) <br/>
-- `Llama2-7B` Based CSV ChatBot using LangChain 📁[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/llama2-chat-with-CSV) <br/>
-- Elevating `Mistral-7B’s` Performance through Finetuning using QLoRA ✍️[Medium](https://akash-mathur.medium.com/elevating-mistral-7bs-performance-through-qlora-b2504cf7c2fe) | 📁[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/mistral-finetune-using-LoRA)
-- `T5` Fine Tuning & Evaluation for Text Summarization 📁[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/finetuned-text-summarizer)
-- `Falcon-7B` Based Video 🎬 Summarization using Langchain 📁[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/Video-Summarization-Langchain)
-- 🎵 Audio Generation 🎹 using Audio Craft 📁[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/AI-Audio-Generation)
+## 1. Conversational AI with LLM Fine-Tuning and RAG using LangChain & LlamaIndex
+- Comprehensive Guide to Customize your `Llama2` ChatBot using LlamaIndex and Streamlit [Medium](https://akash-mathur.medium.com/comprehensive-guide-to-customize-your-llama2-chatbot-with-llamaindex-and-streamlit-76bbd041eafc) | [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/llama2-multi-documents-chatbot) <br/>
+- `Mistral-7B-Instruct` Based Multi-PDFs ChatBot using LangChain and Streamlit [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/mistral_7B-multiPDF-chatbot) <br/>
+- `Llama2-7B` Based CSV ChatBot using LangChain [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/llama2-chat-with-CSV) <br/>
+- Elevating `Mistral-7B’s` Performance through Finetuning using QLoRA [Medium](https://akash-mathur.medium.com/elevating-mistral-7bs-performance-through-qlora-b2504cf7c2fe) | [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/mistral-finetune-using-LoRA)
+- `T5` Fine Tuning & Evaluation for Text Summarization [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/finetuned-text-summarizer)
+- `Falcon-7B` Based Video 🎬 Summarization using Langchain [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/Video-Summarization-Langchain)
+- 🎵 Audio Generation 🎹 using Audio Craft [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/AI-Audio-Generation)
 
 ### 1.1 Advanced RAG 📚📒
-- Optimizing Retrieval with Additional `Context` & `MetaData` using LlamaIndex🦙 ✍️[Medium](https://akash-mathur.medium.com/advanced-rag-optimizing-retrieval-with-additional-context-metadata-using-llamaindex-aeaa32d7aa2f) | 📁[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/parent_child_document_retriever)
+- Optimizing Retrieval with Additional `Context` & `MetaData` using LlamaIndex [Medium](https://akash-mathur.medium.com/advanced-rag-optimizing-retrieval-with-additional-context-metadata-using-llamaindex-aeaa32d7aa2f) | [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/parent_child_document_retriever)
 
 ## 2. Deploying LLMs ☁️
-- Serverless Magic with Lambda, SageMaker DLC, and API Gateway ✍️[Medium](https://medium.com/@akash-mathur/deploying-llms-serverless-magic-with-lambda-sagemaker-dlc-and-api-gateway-1bf99517d43e)  | 📁[GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/LLM-Endpoint-Deployment-Inference)
-- Vector Indexing and ANN using `FAISS` with AWS Serverless Architecture ✍️[Medium](https://akash-mathur.medium.com/unlocking-faiss-for-efficient-search-vector-indexing-and-ann-with-serverless-architecture-5b2b59ead20f)  | 📁[GitHub](https://github.com/akashmathur-2212/Recommendation-System-Playground/tree/main/faiss-similarity-search)
+- Serverless Magic with Lambda, SageMaker DLC, and API Gateway [Medium](https://medium.com/@akash-mathur/deploying-llms-serverless-magic-with-lambda-sagemaker-dlc-and-api-gateway-1bf99517d43e)  | [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/LLM-Endpoint-Deployment-Inference)
+- Vector Indexing and ANN using `FAISS` with AWS Serverless Architecture [Medium](https://akash-mathur.medium.com/unlocking-faiss-for-efficient-search-vector-indexing-and-ann-with-serverless-architecture-5b2b59ead20f)  | [GitHub](https://github.com/akashmathur-2212/Recommendation-System-Playground/tree/main/faiss-similarity-search)
 
 ---------------------
 
