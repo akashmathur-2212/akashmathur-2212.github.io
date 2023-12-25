@@ -1,4 +1,4 @@
-✶_Data is how we listen to reality, but data science is how we translate what we hear into something we can understand._✶
+✶ *Data is how we listen to reality, but data science is how we translate what we hear into something we can understand.* ✶
 
 # About Me
 - 🌱 An MBA finance and engineering graduate with a passion for addressing pressing global challenges and building innovative & sustainable AI solutions.
