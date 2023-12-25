@@ -6,7 +6,7 @@
 
 🔘 Get in touch with me 👇 🔘
 
-📁[GitHub](https://github.com/akashmathur-2212) | ✉️[akash.mathur2289@gmail.com](mailto:akash.mathur2289@gmail.com) | ✍️[Medium](https://akash-mathur.medium.com/) | 🏢[LinkedIn](https://www.linkedin.com/in/akashmathur22/) | #️⃣[Kaggle](https://www.kaggle.com/akashmathur2212) | 🤗[Space](https://huggingface.co/akash2212) |
+📁[GitHub](https://github.com/akashmathur-2212) | ✉️[akash.mathur2289@gmail.com](mailto:akash.mathur2289@gmail.com) | ✍️[Medium](https://akash-mathur.medium.com/) | 🏢[LinkedIn](https://www.linkedin.com/in/akashmathur22/) | #️⃣[Kaggle](https://www.kaggle.com/akashmathur2212) | 🤗[Space](https://huggingface.co/akash2212)
 
 ⬇️ Download [CV](https://github.com/akashmathur-2212/akashmathur-2212.github.io/blob/main/assets/CV/Resume_Akash%20Mathur.pdf)
 
