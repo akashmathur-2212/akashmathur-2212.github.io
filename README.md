@@ -40,9 +40,10 @@
 - Optimized product offerings by 40% through the implementation of Dimensionality Reduction and Clustering Techniques, including `K-Means` and `DBSCAN`, to identify and analyse distinct client groups, thereby gaining valuable insights into their behaviour.
 
 ---------------------
+ 
+# [Projects](https://github.com/akashmathur-2212/LLMs-playground)
 
-# Projects
-- Developed versatile applications powered by `Large Language Model (LLM)`, including conversational AI `chatbot`, `semantic search` and `text summarization`, coupled with UI creation using `LangChain` and `LlamaIndex`.***
+- Developed versatile applications powered by `Large Language Model (LLM)`, including conversational AI `chatbot`, `semantic search` and `text summarization`, coupled with UI creation using `LangChain` and `LlamaIndex`.
 - Implemented fine-tuning strategies in `RAG` applications, optimizing both ingestion (`chunking, metadata, multi-indexing`) and inferencing (`query transformations, advanced retrieval strategies, re-ranking`) stages for enhanced performance. <br/>
 
 **1. Conversational AI (Chatbot 🤖) with RAG using LangChain🦜️ & LlamaIndex🦙**
