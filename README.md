@@ -41,7 +41,7 @@
 
 ---------------------
  
-# Projects <br/>
+# Projects 
 [Repository](https://github.com/akashmathur-2212/LLMs-playground)
 - Developed versatile applications powered by `Large Language Model (LLM)`, including conversational AI `chatbot`, `semantic search` and `text summarization`, coupled with UI creation using `LangChain` and `LlamaIndex`.
 - Implemented fine-tuning strategies in `RAG` applications, optimizing both ingestion (`chunking, metadata, multi-indexing`) and inferencing (`query transformations, advanced retrieval strategies, re-ranking`) stages for enhanced performance. <br/>
