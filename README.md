@@ -69,7 +69,7 @@
 **5. AWS Serverless Architectures for Big Data Workloads**📊
 - Optimizing Concurrent `Batch` Jobs Execution [[Medium](https://akash-mathur.medium.com/optimizing-aws-batch-workloads-concurrent-batch-jobs-execution-using-lambda-s3-and-ecr-71a2bccae435), [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/Concurrent-Batch-Jobs-Execution)]
 - Effortless Scalability using Asynchronous `Lambda` Invocation [[Medium](https://akash-mathur.medium.com/effortless-scalability-how-asynchronous-lambda-invocation-transforms-aws-workflows-b7b0000bd26d), [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/Lambda-Asynchronous-Invocation)]
-- Big Data Processing Using Distributed Maps and AWS `Step Functions` [[Medium](https://akash-mathur.medium.com/big-data-processing-using-distributed-maps-and-aws-step-functions-2cfa6128039d), [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/Step-Function-Distributed-Map)]
+- Big Data Processing Using Distributed Maps and `Step Functions` [[Medium](https://akash-mathur.medium.com/big-data-processing-using-distributed-maps-and-aws-step-functions-2cfa6128039d), [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/Step-Function-Distributed-Map)]
 
 
 ---------------------
