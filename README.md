@@ -66,6 +66,12 @@
 - Serverless Magic with Lambda, SageMaker DLC, and API Gateway [[Medium](https://medium.com/@akash-mathur/deploying-llms-serverless-magic-with-lambda-sagemaker-dlc-and-api-gateway-1bf99517d43e), [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/LLM-Endpoint-Deployment-Inference)]
 - Vector Indexing and ANN using `FAISS` with AWS Serverless Architecture [[Medium](https://akash-mathur.medium.com/unlocking-faiss-for-efficient-search-vector-indexing-and-ann-with-serverless-architecture-5b2b59ead20f), [GitHub](https://github.com/akashmathur-2212/Recommendation-System-Playground/tree/main/faiss-similarity-search)]
 
+**5. AWS Serverless Architectures for Big Data Workloads**📊
+- Optimizing AWS `Batch` Workloads [[Medium](https://akash-mathur.medium.com/optimizing-aws-batch-workloads-concurrent-batch-jobs-execution-using-lambda-s3-and-ecr-71a2bccae435), [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/Concurrent-Batch-Jobs-Execution)]
+- Effortless Scalability using Asynchronous `Lambda` Invocation [[Medium](https://akash-mathur.medium.com/effortless-scalability-how-asynchronous-lambda-invocation-transforms-aws-workflows-b7b0000bd26d), [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/Lambda-Asynchronous-Invocation)]
+- Big Data Processing Using Distributed Maps and AWS `Step Functions` [[Medium](https://akash-mathur.medium.com/big-data-processing-using-distributed-maps-and-aws-step-functions-2cfa6128039d), [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/Step-Function-Distributed-Map)]
+
+
 ---------------------
 
 # Technical Skills
