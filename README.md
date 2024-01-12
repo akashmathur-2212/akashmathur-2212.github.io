@@ -10,7 +10,7 @@
 ✍️[Medium](https://akash-mathur.medium.com/) | 🏢[LinkedIn](https://www.linkedin.com/in/akashmathur22/) <br/>
 #️⃣[Kaggle](https://www.kaggle.com/akashmathur2212) | 🤗[Space](https://huggingface.co/akash2212) <br/>
 
-🛠️[Generative AI Applications](#projects) 👨🏽‍💻 <br/>
+🛠️[Generative AI Applications](#GenerativeAIApplications) 👨🏽‍💻 <br/>
 
 👉[Download CV](https://github.com/akashmathur-2212/akashmathur-2212.github.io/blob/main/assets/CV/Resume_Akash%20Mathur.pdf) ⬇️
 
@@ -42,7 +42,7 @@
 
 ---------------------
  
-# Projects 
+# Generative AI Applications 
 [Repository](https://github.com/akashmathur-2212/LLMs-playground)
 - Developed versatile applications powered by `Large Language Model (LLM)`, including conversational AI `chatbot`, `semantic search` and `text summarization`, coupled with UI creation using `LangChain` and `LlamaIndex`.
 - Implemented fine-tuning strategies in `RAG` applications, optimizing both ingestion (`chunking, metadata, multi-indexing`) and inferencing (`query transformations, advanced retrieval strategies, re-ranking`) stages for enhanced performance. <br/>
