@@ -10,7 +10,7 @@
 ✍️[Medium](https://akash-mathur.medium.com/) | 🏢[LinkedIn](https://www.linkedin.com/in/akashmathur22/) <br/>
 #️⃣[Kaggle](https://www.kaggle.com/akashmathur2212) | 🤗[Space](https://huggingface.co/akash2212) <br/>
 
-🛠️[LLM Powered Applications](#projects) 👨🏽‍💻 <br/>
+🛠️[Generative AI Applications](#projects) 👨🏽‍💻 <br/>
 
 👉[Download CV](https://github.com/akashmathur-2212/akashmathur-2212.github.io/blob/main/assets/CV/Resume_Akash%20Mathur.pdf) ⬇️
 
