@@ -31,7 +31,7 @@
 *Assistant Manager - Quantitative Modelling (Nov 2018 – Jun 2021)*
 
 - Improved bank’s risk and capital management by forecasting Equities Trading Account Profit revenue for 9 quarters using Linear Regression under several economic scenarios as a part of regulatory requirement using `Azure Machine Learning`. 
-- Reduced monthly processing time by `90%` by constructing automated ETL pipelines for large-scale Non-Interest Income data using `Azure Databricks`. Integrated the output into various downstream products crucial for revenue forecasting.
+- Reduced monthly processing time by `90%` by constructing automated ETL pipelines for large-scale Non-Interest Income data and leveraging the time-series model `ARIMA` for revenue forecasting using `Databricks`.
 - Demonstrated proficiency in Information Extraction through the integration of diverse data sources, including text, PDFs, APIs, and scanned images with OCR, to construct robust data pipelines for multiple downstream tasks.
 
 ## CREDIT SUISSE – Pune, India
