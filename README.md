@@ -13,6 +13,7 @@
 🛠️[Generative AI Applications](#generative-ai-applications) 👨🏽‍💻 <br/>
 
 👉[Download CV](https://github.com/akashmathur-2212/akashmathur-2212.github.io/blob/main/assets/CV/Resume_Akash%20Mathur.pdf) ⬇️
+<a href="https://github.com/akashmathur-2212/akashmathur-2212.github.io/blob/main/assets/CV/Resume_Akash%20Mathur.pdf" download="Resume_Akash Mathur.pdf">Download Resume</a>
 
 ---------------------
 
