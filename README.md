@@ -54,7 +54,9 @@
 
 **2. Advanced RAG**📚📒
 - Optimizing Retrieval with Additional `Context` & `MetaData` using LlamaIndex [[Medium](https://akash-mathur.medium.com/advanced-rag-optimizing-retrieval-with-additional-context-metadata-using-llamaindex-aeaa32d7aa2f), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/parent_child_document_retriever)]
-- Enhancing Retrieval Efficiency through Evaluating `Reranker` Models using LlamaIndex [[Medium](https://akash-mathur.medium.com/advanced-rag-enhancing-retrieval-efficiency-through-evaluating-reranker-models-using-llamaindex-3f104f24607e), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/reranker_models_evaluation)] <br/>
+- Enhancing Retrieval Efficiency through Evaluating `Reranker` Models using LlamaIndex [[Medium](https://akash-mathur.medium.com/advanced-rag-enhancing-retrieval-efficiency-through-evaluating-reranker-models-using-llamaindex-3f104f24607e), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/reranker_models_evaluation)]
+- Query `Augmentation` for Next-Level `Search` using LlamaIndex [[Medium](https://medium.com/@akash-mathur/advanced-rag-query-augmentation-for-next-level-search-using-llamaindex-d362fed7ecc3), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/advanced_query_transformations)] <br/>
+
 
 **3. LLM Fine Tuning 🧠 and Applications 💡**
 - Elevating `Mistral-7B’s` Performance through Finetuning using QLoRA [[Medium](https://akash-mathur.medium.com/elevating-mistral-7bs-performance-through-qlora-b2504cf7c2fe), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/mistral-finetune-using-LoRA)]
