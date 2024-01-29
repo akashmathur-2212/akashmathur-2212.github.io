@@ -22,8 +22,8 @@
 *Senior Data Scientist – Automotive Supply Chain Technology & Aftermarket (Jun 2021 – Present)*
 
 - Launched an ML product that uncovers market trends and forecasts Vehicles Scrappage helping businesses to identify recycling trends. It was integrated into several downstream products, contributing to sustainable value creation and revenue growth.
-- Engineered a `CI/CD` integrated `serverless` workflow leveraging `AWS`, `Docker` and `Terraform` to streamline model deployment. Defined and `monitored` KPIs and metrics to assess model performance ensuring ongoing accuracy and reliability.
-- Reduced daily news processing time by `80%` by building and deploying a CI/CD integrated `serverless` AWS workflow. It recommends top-N news articles based on similarity search (`Faiss`) and abstractive news summarization using `FLAN-T5` model. 
+- Engineered a `CI/CD` integrated `serverless` workflow leveraging `AWS` and `Docker` to streamline model deployment and serve as a `FastAPI`. Setup `monitoring` and `logging` for the deployed model to track its performance and identify any issues.
+- Deployed a production-ready ML application as a FastAPI that reduced daily news processing time by `80%` on `SageMaker`. It recommends top-N news articles based on similarity search (`Faiss`) and abstractive news summarization using `FLAN-T5` model. 
 - Improved customer satisfaction and product quality by building and deploying a `serverless` AWS workflow that identifies prevalent issues using topic modelling (`BERTopic`) and Sentiment Analysis using `BERT` to analyse customer reviews. 
 - Accelerated performance by `10X` through optimization of a long-running query using Spark, processing gigabytes of data on Azure Databricks, and deriving actionable insights for internal stakeholders using `Power BI`.
 
