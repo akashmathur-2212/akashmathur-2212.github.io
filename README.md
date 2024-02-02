@@ -21,7 +21,7 @@
 ## S&P Global – Mobility, Gurugram, India
 *Senior Data Scientist – Automotive Supply Chain Technology & Aftermarket (Jun 2021 – Present)*
 
-- Launched an ML [product](https://aftermarketinsight.ihsmarkit.com/vio-sales) that uncovers market trends and forecasts Vehicles Scrappage helping businesses to identify `recycling` trends. It was integrated into several downstream products, contributing to `sustainable` value creation and `revenue` growth.
+- Generated `$500k+` in revenue through the launch of an ML [product](https://aftermarketinsight.ihsmarkit.com/vio-sales) utilizing `LightGBM` to predict Vehicles `Scrappage`, helping businesses in recognizing `recycling` trends, and integrating it into downstream products for `sustainable` value creation.
 - Engineered a `CI/CD` integrated `serverless` workflow leveraging `AWS` and `Docker` to streamline model deployment and serve as a `FastAPI`. Setup `monitoring` and `logging` for the deployed model to track its performance and identify any issues.
 - Deployed a production-ready ML application as a `FastAPI` that reduced daily news processing time by `80%` on `SageMaker`. It recommends top-N news articles based on similarity search (`Faiss`) and and provides concise `summaries` using `FLAN-T5` model. 
 - Improved customer satisfaction and product quality by building and deploying a `serverless` AWS workflow that identifies prevalent issues using topic modelling (`BERTopic`) and Sentiment Analysis using `BERT` to analyse customer reviews. 
