@@ -22,8 +22,8 @@
 *Senior Data Scientist – Automotive Supply Chain Technology & Aftermarket (Jun 2021 – Present)*
 
 - Generated `$500k+` in revenue through the launch of an ML [product](https://aftermarketinsight.ihsmarkit.com/vio-sales) utilizing `LightGBM` to predict Vehicles `Scrappage`, helping businesses in recognizing `recycling` trends, and integrating it into downstream products for `sustainable` value creation.
-- Engineered a `CI/CD` integrated `serverless` workflow leveraging `AWS` and `Docker` to streamline model deployment and serve as a `FastAPI`. Setup `monitoring` and `logging` for the deployed model to track its performance and identify any issues.
-- Deployed a production-ready ML application as a `FastAPI` that reduced daily news processing time by `80%` on `SageMaker`. It recommends top-N news articles based on similarity search (`Faiss`) and and provides concise `summaries` using `FLAN-T5` model. 
+- Engineered a `CI/CD` integrated `serverless` workflow leveraging `AWS` and `Docker` to streamline model deployment and serve with `FastAPI`. Setup `monitoring` and `logging` for the deployed model to track its performance and identify any issues.
+- Deployed a production-ready application with `Batch Inference` that reduced daily news processing time by `80%` on `AWS`. It recommends top-N news articles based on similarity search (`Faiss`) and and provides concise `summaries` using `FLAN-T5` model. 
 - Improved customer satisfaction and product quality by building and deploying a `serverless` AWS workflow that identifies prevalent issues using topic modelling (`BERTopic`) and Sentiment Analysis using `BERT` to analyse customer reviews. 
 - Accelerated performance by `10X` through optimization of a long-running query using Spark, processing gigabytes of data on Azure Databricks, and deriving actionable insights for internal stakeholders using `Power BI`.
 
@@ -51,6 +51,7 @@
 - Comprehensive Guide to Customize your `Llama2` ChatBot using LlamaIndex and Streamlit [[Medium](https://akash-mathur.medium.com/comprehensive-guide-to-customize-your-llama2-chatbot-with-llamaindex-and-streamlit-76bbd041eafc), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/llama2-multi-documents-chatbot)]
 - `Mistral-7B-Instruct` Based Multi-PDFs ChatBot using LangChain and Streamlit [[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/mistral_7B-multiPDF-chatbot)]
 - `Llama2-7B` Based CSV ChatBot using LangChain [[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/llama2-chat-with-CSV)]
+- Simple RAG using AWS `Bedrock` [[GitHub](https://github.com/akashmathur-2212/GenAI_with_AWS_Bedrock/tree/main) |
 
 **2. Advanced RAG**📚📒
 - Optimizing Retrieval with Additional `Context` & `MetaData` using LlamaIndex [[Medium](https://akash-mathur.medium.com/advanced-rag-optimizing-retrieval-with-additional-context-metadata-using-llamaindex-aeaa32d7aa2f), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/parent_child_document_retriever)]
