@@ -51,7 +51,7 @@
 - Comprehensive Guide to Customize your `Llama2` ChatBot using LlamaIndex and Streamlit [[Medium](https://akash-mathur.medium.com/comprehensive-guide-to-customize-your-llama2-chatbot-with-llamaindex-and-streamlit-76bbd041eafc), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/llama2-multi-documents-chatbot)]
 - `Mistral-7B-Instruct` Based Multi-PDFs ChatBot using LangChain and Streamlit [[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/mistral_7B-multiPDF-chatbot)]
 - `Llama2-7B` Based CSV ChatBot using LangChain [[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/llama2-chat-with-CSV)]
-- Simple RAG using AWS `Bedrock` [[GitHub](https://github.com/akashmathur-2212/GenAI_with_AWS_Bedrock/tree/main) |
+- Simple RAG using AWS `Bedrock` [[GitHub](https://github.com/akashmathur-2212/GenAI_with_AWS_Bedrock/tree/main)]
 
 **2. Advanced RAG**📚📒
 - Optimizing Retrieval with Additional `Context` & `MetaData` using LlamaIndex [[Medium](https://akash-mathur.medium.com/advanced-rag-optimizing-retrieval-with-additional-context-metadata-using-llamaindex-aeaa32d7aa2f), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/parent_child_document_retriever)]
