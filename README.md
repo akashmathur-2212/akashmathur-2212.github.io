@@ -23,14 +23,14 @@
 
 - Generated `$500k+` in revenue through the launch of an ML [product](https://aftermarketinsight.ihsmarkit.com/vio-sales) utilizing `LightGBM` to predict Vehicles `Scrappage`, helping businesses in recognizing `recycling` trends, and integrating it into downstream products for `sustainable` value creation.
 - Engineered a `CI/CD` integrated `serverless` workflow leveraging `AWS` and `Docker` to streamline model deployment and serve with `FastAPI`. Setup `monitoring` and `logging` for the deployed model to track its performance and identify any issues.
-- Deployed a production-ready application with `Batch Inference` that reduced daily news processing time by `80%` on `AWS`. It recommends top-N news articles based on similarity search (`Faiss`) and and provides concise `summaries` using `FLAN-T5` model. 
+- Deployed a production-ready application with `Batch Inference` that reduced daily news processing time by `80%` on `AWS`. It recommends top-N news articles based on similarity search (`Faiss`) and provides concise `summaries` using `FLAN-T5` model. 
 - Improved customer satisfaction and product quality by building and deploying a `serverless` AWS workflow that identifies prevalent issues using topic modelling (`BERTopic`) and Sentiment Analysis using `BERT` to analyse customer reviews. 
 - Accelerated performance by `10X` through optimization of a long-running query using Spark, processing gigabytes of data on Azure Databricks, and deriving actionable insights for internal stakeholders using `Power BI`.
 
 ## Bank of America – Gurugram, India
 *Assistant Manager - Quantitative Modelling (Nov 2018 – Jun 2021)*
 
-- Improved bank’s risk and capital management by forecasting Equities Trading Account Profit revenue for 9 quarters using Linear Regression under several economic scenarios as a part of regulatory requirement using `Azure Machine Learning`. 
+- Improved bank’s risk and capital management by forecasting Equities Trading Account Profit revenue for 9 quarters using Linear Regression under several economic scenarios as a part of regulatory requirements using `Azure Machine Learning`. 
 - Reduced monthly processing time by `90%` by constructing automated ETL pipelines for large-scale Non-Interest Income data and leveraging the time-series model `ARIMA` for revenue forecasting using `Databricks`.
 - Demonstrated proficiency in Information Extraction through the integration of diverse data sources, including text, PDFs, APIs, and scanned images with OCR, to construct robust data pipelines for multiple downstream tasks.
 
@@ -51,7 +51,7 @@
 - Comprehensive Guide to Customize your `Llama2` ChatBot using LlamaIndex and Streamlit [[Medium](https://akash-mathur.medium.com/comprehensive-guide-to-customize-your-llama2-chatbot-with-llamaindex-and-streamlit-76bbd041eafc), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/llama2-multi-documents-chatbot)]
 - `Mistral-7B-Instruct` Based Multi-PDFs ChatBot using LangChain and Streamlit [[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/mistral_7B-multiPDF-chatbot)]
 - `Llama2-7B` Based CSV ChatBot using LangChain [[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/llama2-chat-with-CSV)]
-- Simple Chatbot using AWS `Bedrock` [[GitHub](https://github.com/akashmathur-2212/GenAI_with_AWS_Bedrock/tree/main)]
+- Simple Chatbot using AWS `Bedrock` [[GitHub](https://github.com/akashmathur-2212/GenAI_with_AWS_Bedrock/tree/main)] <br/>
 
 **2. Advanced RAG**📚📒
 - Optimizing Retrieval with Additional `Context` & `MetaData` using LlamaIndex [[Medium](https://akash-mathur.medium.com/advanced-rag-optimizing-retrieval-with-additional-context-metadata-using-llamaindex-aeaa32d7aa2f), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/parent_child_document_retriever)]
