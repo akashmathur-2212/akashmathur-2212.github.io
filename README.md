@@ -24,7 +24,7 @@
 - Generated `$500k+` in revenue through the launch of an ML [product](https://aftermarketinsight.ihsmarkit.com/vio-sales) utilizing `LightGBM` to predict Vehicles `Scrappage`, helping businesses in recognizing `recycling` trends, and integrating it into downstream products for `sustainable` value creation.
 - Engineered a `CI/CD` integrated `serverless` workflow leveraging `AWS` and `Docker` to streamline model deployment and serve with `FastAPI`. Setup `monitoring` and `logging` for the deployed model to track its performance and identify any issues.
 - Reduced daily news processing time by `80%` by deploying an application using `Batch` Inference on `AWS`. It recommends top-5 news articles through similarity search using `Faiss` and summaries generated using a fine-tuned `FLAN-T5` model with `LoRA`. 
-- Improved customer satisfaction and product quality by employing `sentiment analysis` on customer reviews using a fine-tuned `RoBERTa` and identifying prevalent issues using `topic modelling` via `BERTopic` on `AWS`. 
+- Improved customer satisfaction and product quality by employing `sentiment analysis` on customer reviews using a fine-tuned `RoBERTa` model and identifying prevalent issues using `topic modelling` via `BERTopic` on `AWS`. 
 - Accelerated performance by `10X` through optimization of a long-running query using Spark, processing gigabytes of data on Azure Databricks, and deriving actionable insights for internal stakeholders using `Power BI`.
 
 ## Bank of America – Gurugram, India
