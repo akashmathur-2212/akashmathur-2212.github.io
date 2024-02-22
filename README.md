@@ -22,7 +22,7 @@
 *Senior Data Scientist – Automotive Supply Chain Technology & Aftermarket (Jun 2021 – Present)*
 
 - Generated `$500k+` in revenue through the launch of an ML [product](https://aftermarketinsight.ihsmarkit.com/vio-sales) utilizing `LightGBM` to predict Vehicles `Scrappage`, helping businesses in recognizing `recycling` trends, and integrating it into downstream products for `sustainable` value creation.
-- Engineered a `CI/CD` integrated `serverless` workflow leveraging `AWS` and `Docker` to streamline the model deployment and serve with `FastAPI`. Setup `monitoring` and `logging` for the deployed model to track its performance and identify any issues.
+- Engineered a `CI/CD` serverless workflow leveraging `AWS`, `Docker` and `GitHub Actions` to streamline the model deployment and serve with `FastAPI`. Setup `monitoring` and `logging` for the deployed model to track its performance and identify any issues.
 - Reduced daily news processing time by `80%` by deploying an application using `Batch` Inference on `AWS`. It recommends top-5 news articles through similarity search using `Faiss` and summaries generated using a fine-tuned `FLAN-T5` model with `LoRA`. 
 - Improved customer satisfaction and product quality by employing `sentiment analysis` on customer reviews using a fine-tuned `RoBERTa` model and identifying prevalent issues using `topic modelling` via `BERTopic` on `AWS`. 
 - Building a `RAG` system utilizing `Hybrid Search` and `Reranking` to improve the retrieval accuracy using open source LLMs with LlamaIndex, while implementing fine-tuning strategies to optimize both `ingestion` and `inferencing` for enhanced performance.
