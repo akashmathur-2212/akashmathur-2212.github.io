@@ -30,7 +30,7 @@
 ## Bank of America – Gurugram, India
 *Assistant Manager - Quantitative Modelling (Nov 2018 – Jun 2021)*
 
-- Improved bank’s risk and capital management by forecasting Equities Trading Account Profit revenue using Linear Regression as a part of regulatory compliance using Databricks. 
+- Improved bank’s risk and capital management by forecasting Equities Trading Account Profit revenue using Linear Regression as a part of regulatory compliance. 
 - Reduced monthly processing time by `90%` by designing `ETL` pipelines tailored for large-scale data and leveraging `ARIMA` for revenue forecasting using `Databricks`.
 - Demonstrated proficiency in Information Extraction from disparate sources and utilizing advanced analytical techniques and algorithms to make it actionable for stakeholders.
 
