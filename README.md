@@ -18,14 +18,21 @@
 
 # Professional Experience
 
-## S&P Global – Mobility, Gurugram, India
-*Senior Data Scientist – Automotive Supply Chain Technology & Aftermarket (Jun 2021 – Present)*
+## CGI, Amsterdam, Netherlands
+*Senior ML Engineer (Sep 2024 – Present)*
+
+- Achieved `60%` faster proposal responses by engineering a `RAG` system with `agentic` memory, tools, and custom prompts, accelerating `RFI` evaluations and enabling quicker sales decisions.
+- Transformed data discovery by designing a `hybrid` search engine with `LLM`-powered re-ranking, reducing `time to insights` and making global data platform more intuitive and user-centric.
+- Leveraged `LLMs` to generate task-specific `synthetic` data, enhancing model performance and reducing `bias` in AI systems.
+- Implemented `medallion` architecture to build scalable pipelines that cleaned, enriched, and secured `unstructured` data, making them `auditable` and `AI`-ready.
+
+## S&P Global, Gurugram, India
+*Senior ML Engineer – Automotive Supply Chain Technology & Aftermarket (Jun 2021 – Aug 2024)*
 
 - Generated `$500k+` in revenue by architecting end-to-end product on `AWS` that forecast Vehicles `Scrappage`. Setup Feature store and model `monitoring` with `SageMaker` to track and analyze metrics.
 - Automated model `deployment` and `serving` with FastAPI through an efficient `CI/CD` integrated serverless workflow using AWS, Docker, Terraform and GitHub.
 - Reduced daily news processing time by `80%` by architecting end-to-end application on AWS. It recommends top news articles through `similarity` search and summaries generated from a `fine-tuned` FLAN-T5 model. 
 - Improved customer satisfaction and product quality by employing `sentiment` analysis using a `fine-tuned` RoBERTa model and identifying prevalent issues using `topic modelling` via BERTopic on AWS. 
-- Building a `RAG` system utilizing `Hybrid Search` and `Reranking` techniques using open source LLMs, while implementing fine-tuning strategies to optimize both `ingestion` and `inferencing` for enhanced performance.
 
 ## Bank of America – Gurugram, India
 *Assistant Manager - Quantitative Modelling (Nov 2018 – Jun 2021)*
@@ -34,8 +41,8 @@
 - Reduced monthly processing time by `90%` by designing `ETL` pipelines tailored for large-scale data and leveraging `ARIMA` for revenue forecasting using `Databricks`.
 - Demonstrated proficiency in Information Extraction from disparate sources and utilizing advanced analytical techniques and algorithms to make it actionable for stakeholders.
 
-## CREDIT SUISSE – Pune, India
-*Client Finance Analytics - Global Markets Technology (May 2015 – Nov 2018)*
+## Credit Suisse – Pune, India
+*Analyst, Advanced Analytics - Global Markets Technology (May 2015 – Nov 2018)*
 
 - Enhanced the bank’s risk management practices by designing `ETL` pipelines, enabling precise identification of high-risk hedge fund investors with the Random Forest classifier.
 - Optimized product offerings by 40% through segmentation using `Dimensionality Reduction` and `Clustering` Techniques to identify distinct client groups, leading to deeper customer understanding.
@@ -83,7 +90,7 @@
 
 | 🔝 Technologies | 🔝 Interests |
 |---------------|--------------|
-| • **Languages**: Python, SQL, Spark <br/> • **Machine Learning**: Scikit-Learn, PyTorch, [LangChain](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications), [LlamaIndex](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications), [Faiss](https://github.com/akashmathur-2212/Recommendation-System-Playground), NumPy, Pandas, MLflow, TensorFlow, NLTK, spaCy, OpenCV <br/> • **Cloud**: [AWS](https://github.com/akashmathur-2212/aws-serverless-workflows) (SageMaker, Lambda, Batch, Step Functions, ECS, ECR, API Gateway, S3), Azure (Machine Learning, Data Factory, Databricks), <br/> • **MLOps**: BentoML, MLflow, DVC, Docker, Terraform, CI/CD, Git, GitHub Actions <br/> • **Visualization**: [Tableau](https://www.credly.com/badges/e1b80197-3e03-4bdb-b124-8282b1713182?source=linked_in_profile), Power BI <br/> • **Database**: MySQL, SQLite <br/> | • Generative AI <br/> • NLP <br/> • Recommendation Systems <br/> • MLOps <br/> • Stock Market Analysis, Macroeconomics <br/> • Swimming, Yoga, Meditation, Cooking <br/>|
+| • **Languages**: Python, SQL, Spark <br/> • **Machine Learning**: Scikit-Learn, PyTorch, [LangChain](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications), [LlamaIndex](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications), [Faiss](https://github.com/akashmathur-2212/Recommendation-System-Playground), NumPy, Pandas, MLflow, TensorFlow, NLTK, spaCy, OpenCV <br/> • **Cloud**: [AWS](https://github.com/akashmathur-2212/aws-serverless-workflows) (SageMaker, Lambda, Batch, Step Functions, ECS, ECR, API Gateway, S3), Azure (Machine Learning, Data Factory, Databricks, DevOps), <br/> • **MLOps**: BentoML, MLflow, DVC, Docker, Terraform, CI/CD, Git, GitHub Actions <br/> • **Visualization**: [Tableau](https://www.credly.com/badges/e1b80197-3e03-4bdb-b124-8282b1713182?source=linked_in_profile), Power BI <br/> • **Database**: MySQL, SQLite, Vector Databases <br/> | • Generative AI <br/> • NLP <br/> • Recommendation Systems <br/> • MLOps <br/> • Stock Market Analysis, Macroeconomics <br/> • Swimming, Yoga, Meditation, Cooking <br/>|
 
 # Education
 - **Post Graduate Diploma in Management - Financial Services** | K J Somaiya Institute of Management, Mumbai, India | 2013-2015 
