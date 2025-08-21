@@ -22,8 +22,8 @@
 *Senior ML Engineer (Sep 2024 – Present)*
 
 - Achieved `60%` faster proposal responses by engineering a `RAG` system with `agentic` memory, tools, and custom prompts, accelerating `RFI` evaluations and enabling quicker sales decisions.
-- Transformed data discovery by designing a `hybrid` search engine with `LLM`-powered re-ranking, reducing `time to insights` and making global data platform more intuitive and user-centric.
-- Leveraged `LLMs` to generate task-specific `synthetic` data, enhancing model performance and reducing `bias` in AI systems.
+- Transformed data discovery by designing a `hybrid` search engine with `LLM`-powered re-ranking, reducing `time to insights` by `50%` and making global data platform more intuitive and user-centric.
+- Leveraged `LLMs` to generate task-specific `synthetic` data using PyTorch, enhancing model performance and reducing `bias` in AI systems.
 - Implemented `medallion` architecture to build scalable pipelines that cleaned, enriched, and secured `unstructured` data, making them `auditable` and `AI`-ready.
 
 ## S&P Global, Gurugram, India
