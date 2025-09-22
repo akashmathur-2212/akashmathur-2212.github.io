@@ -10,7 +10,7 @@
 ✍️[Medium](https://akash-mathur.medium.com/) | 🏢[LinkedIn](https://www.linkedin.com/in/akashmathur22/) <br/>
 #️⃣[Kaggle](https://www.kaggle.com/akashmathur2212) | 🤗[Space](https://huggingface.co/akash2212) <br/>
 
-🛠️[Generative AI Applications](#generative-ai-applications) 👨🏽‍💻 <br/>
+🛠️[Generative AI Applications](https://github.com/akashmathur-2212/Portfolio/tree/main) 👨🏽‍💻 <br/>
 
 <!---👉[Download CV](https://github.com/akashmathur-2212/akashmathur-2212.github.io/blob/main/assets/CV/Resume_Akash%20Mathur.pdf) ⬇️--->
 
@@ -46,49 +46,6 @@
 
 - Enhanced the bank’s risk management practices by designing `ETL` pipelines, enabling precise identification of high-risk hedge fund investors with the Random Forest classifier.
 - Optimized product offerings by 40% through segmentation using `Dimensionality Reduction` and `Clustering` Techniques to identify distinct client groups, leading to deeper customer understanding.
-
----------------------
- 
-# Generative AI Applications 
-
-## Finetuning Toolkit
-A comprehensive guide and codebase for fine-tuning Large Language Models (LLMs) using popular frameworks.
-
-| Description	| Link |
-|----------|-------------|
-| - 🤗 [Hugging Face](https://huggingface.co/docs/peft/index)<br> - 🦥 [Unsloth](https://github.com/unslothai/unsloth)<br>- 🦎 [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)| [Repository](https://github.com/akashmathur-2212/Deep-Learning-with-PyTorch-HuggingFace/tree/main/llm-finetuning) |
-
-## Evaluation Toolkit
-A comprehensive guide and codebase for evaluating Large Language Models (LLMs) based appliatons using popular methods. 
-
-| Description	| Link |
-|----------|-------------|
-| - [Ragas](https://docs.ragas.io/en/stable/)<br> - [LLM-as-a-Judge](https://arxiv.org/abs/2411.15594)<br> | [Repository](https://github.com/akashmathur-2212/Deep-Learning-with-PyTorch-HuggingFace/tree/main/llm-evaluation) |
-
-## Synthetic Data Generation Toolkit
-A comprehensive guide and codebase to generate synthetic dataset like Q&A for evaluating Large Language Models (LLMs) based appliatons using popular methods. 
-
-| Description	| Link |
-|----------|-------------|
-| - [Distilabel](https://distilabel.argilla.io/latest/)<br> - Self-Instruct Method<br> | [Repository](https://github.com/akashmathur-2212/Deep-Learning-with-PyTorch-HuggingFace/tree/main/synthetic-data-generation) |
-
-## Coding LLMs from scratch using PyTorch
-
-| Description	| Link |
-|----------|-------------|
-| Coding LLMs from scratch using PyTorch | [Repository](https://github.com/akashmathur-2212/Deep-Learning-with-PyTorch-HuggingFace/tree/main/transformers_from_scratch) |
-
-## Advanced RAG Applications
-
-| Description	| Link |
-|----------|-------------|
-| Advanced RAG Applications with multimodal data using LangChain and LlamaIndex | [Repository](https://github.com/akashmathur-2212/LLMs-playground/tree/main) |
-
-## Model Serving and Deployment ☁️
-
-| Description	| Link |
-|----------|-------------|
-| Model Serving and Deployment on cloud | [Repository](https://github.com/akashmathur-2212/aws-serverless-workflows) |
 
 ---------------------
 
