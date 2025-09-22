@@ -73,39 +73,22 @@ A comprehensive guide and codebase to generate synthetic dataset like Q&A for ev
 | - [Distilabel](https://distilabel.argilla.io/latest/)<br> - Self-Instruct Method<br> | [Repository](https://github.com/akashmathur-2212/Deep-Learning-with-PyTorch-HuggingFace/tree/main/synthetic-data-generation) |
 
 ## Coding LLMs from scratch using PyTorch
+
 | Description	| Link |
 |----------|-------------|
 | Coding LLMs from scratch using PyTorch | [Repository](https://github.com/akashmathur-2212/Deep-Learning-with-PyTorch-HuggingFace/tree/main/transformers_from_scratch) |
 
-**1. Conversational AI (Chatbot 🤖) with RAG using LangChain🦜️ & LlamaIndex🦙**
-- Comprehensive Guide to Customize your `Llama2` ChatBot using LlamaIndex and Streamlit [[Medium](https://akash-mathur.medium.com/comprehensive-guide-to-customize-your-llama2-chatbot-with-llamaindex-and-streamlit-76bbd041eafc), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/llama2-multi-documents-chatbot)]
-- `Mistral-7B-Instruct` Based Multi-PDFs ChatBot using LangChain and Streamlit [[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/mistral_7B-multiPDF-chatbot)]
-- `Llama2-7B` Based CSV ChatBot using LangChain [[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/llama2-chat-with-CSV)]
-- Simple Chatbot using AWS `Bedrock` [[GitHub](https://github.com/akashmathur-2212/GenAI_with_AWS_Bedrock/tree/main)] <br/>
+## Advanced RAG Applications
 
-**2. Advanced RAG**📚📒
-- Optimizing Retrieval with Additional `Context` & `MetaData` using LlamaIndex [[Medium](https://akash-mathur.medium.com/advanced-rag-optimizing-retrieval-with-additional-context-metadata-using-llamaindex-aeaa32d7aa2f), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/parent_child_document_retriever)]
-- Enhancing Retrieval Efficiency through Evaluating `Reranker` Models using LlamaIndex [[Medium](https://akash-mathur.medium.com/advanced-rag-enhancing-retrieval-efficiency-through-evaluating-reranker-models-using-llamaindex-3f104f24607e), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/reranker_models_evaluation)]
-- Query `Augmentation` for Next-Level `Search` using LlamaIndex [[Medium](https://medium.com/@akash-mathur/advanced-rag-query-augmentation-for-next-level-search-using-llamaindex-d362fed7ecc3), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/advanced_query_transformations)] <br/>
-- Smart `Tracking` and `Debugging` of Document Changes using LlamaIndex [[Medium](https://akash-mathur.medium.com/data-management-in-llamaindex-smart-tracking-and-debugging-of-document-changes-7b81c304382b), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/Advanced-RAG/document_tracking_debugging)] <br/>
+| Description	| Link |
+|----------|-------------|
+| Advanced RAG Applications with multimodal data using LangChain and LlamaIndex | [Repository](https://github.com/akashmathur-2212/LLMs-playground/tree/main) |
 
+## Model Serving and Deployment ☁️
 
-**3. LLM Fine Tuning 🧠 and Applications 💡**
-- Elevating `Mistral-7B’s` Performance through Finetuning using QLoRA [[Medium](https://akash-mathur.medium.com/elevating-mistral-7bs-performance-through-qlora-b2504cf7c2fe), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/mistral-finetune-using-LoRA)]
-- `T5` Fine Tuning & Evaluation for Text Summarization [[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/finetuned-text-summarizer)]
-- `Falcon-7B` Based Video 🎬 Summarization using Langchain [[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LangChain-applications/Video-Summarization-Langchain)]
-- 🎵`Audio` Generation🎹 using Audio Craft [[GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/AI-Audio-Generation)] <br/>
-  
-**4. Model Serving and Deployment ☁️**
-- Serverless Magic with Lambda, SageMaker DLC, and API Gateway [[Medium](https://medium.com/@akash-mathur/deploying-llms-serverless-magic-with-lambda-sagemaker-dlc-and-api-gateway-1bf99517d43e), [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/LLM-Endpoint-Deployment-Inference)]
-- Deploy a Serverless ML Inference using FastAPI, AWS Lambda, and API Gateway [[Medium](https://akash-mathur.medium.com/deploy-a-serverless-ml-inference-using-fastapi-aws-lambda-and-api-gateway-32b0b9a40236)], [[GitHub](https://github.com/akashmathur-2212/Serverless-Deployment-Using-FastAPI-AWS)]
-- Vector Indexing and ANN using `FAISS` with AWS Serverless Architecture [[Medium](https://akash-mathur.medium.com/unlocking-faiss-for-efficient-search-vector-indexing-and-ann-with-serverless-architecture-5b2b59ead20f), [GitHub](https://github.com/akashmathur-2212/Recommendation-System-Playground/tree/main/faiss-similarity-search)]
-
-**5. AWS Serverless Architectures for Big Data Workloads**📊
-- Optimizing Concurrent `Batch` Jobs Execution [[Medium](https://akash-mathur.medium.com/optimizing-aws-batch-workloads-concurrent-batch-jobs-execution-using-lambda-s3-and-ecr-71a2bccae435), [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/Concurrent-Batch-Jobs-Execution)]
-- Effortless Scalability using Asynchronous `Lambda` Invocation [[Medium](https://akash-mathur.medium.com/effortless-scalability-how-asynchronous-lambda-invocation-transforms-aws-workflows-b7b0000bd26d), [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/Lambda-Asynchronous-Invocation)]
-- Big Data Processing Using Distributed Maps and `Step Functions` [[Medium](https://akash-mathur.medium.com/big-data-processing-using-distributed-maps-and-aws-step-functions-2cfa6128039d), [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/Step-Function-Distributed-Map)]
-
+| Description	| Link |
+|----------|-------------|
+| Model Serving and Deployment on cloud | [Repository](https://github.com/akashmathur-2212/aws-serverless-workflows) |
 
 ---------------------
 
