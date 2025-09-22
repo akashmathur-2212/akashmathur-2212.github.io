@@ -50,9 +50,32 @@
 ---------------------
  
 # Generative AI Applications 
-[Repository](https://github.com/akashmathur-2212/LLMs-playground)
-- Developed versatile applications powered by `Large Language Model (LLM)`, including conversational AI `chatbot`, `semantic search` and `text summarization`, coupled with UI creation using `LangChain` and `LlamaIndex`.
-- Implemented fine-tuning strategies in `RAG` applications, optimizing both ingestion (`chunking, metadata, multi-indexing`) and inferencing (`query transformations, advanced retrieval strategies, re-ranking`) stages for enhanced performance. <br/>
+
+## Finetuning Toolkit
+A comprehensive guide and codebase for fine-tuning Large Language Models (LLMs) using popular frameworks.
+
+| Description	| Link |
+|----------|-------------|
+| - 🤗 [Hugging Face](https://huggingface.co/docs/peft/index)<br> - 🦥 [Unsloth](https://github.com/unslothai/unsloth)<br>- 🦎 [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)| [Repository](https://github.com/akashmathur-2212/Deep-Learning-with-PyTorch-HuggingFace/tree/main/llm-finetuning) |
+
+## Evaluation Toolkit
+A comprehensive guide and codebase for evaluating Large Language Models (LLMs) based appliatons using popular methods. 
+
+| Description	| Link |
+|----------|-------------|
+| - [Ragas](https://docs.ragas.io/en/stable/)<br> - [LLM-as-a-Judge](https://arxiv.org/abs/2411.15594)<br> | [Repository](https://github.com/akashmathur-2212/Deep-Learning-with-PyTorch-HuggingFace/tree/main/llm-evaluation) |
+
+## Synthetic Data Generation Toolkit
+A comprehensive guide and codebase to generate synthetic dataset like Q&A for evaluating Large Language Models (LLMs) based appliatons using popular methods. 
+
+| Description	| Link |
+|----------|-------------|
+| - [Distilabel](https://distilabel.argilla.io/latest/)<br> - Self-Instruct Method<br> | [Repository](https://github.com/akashmathur-2212/Deep-Learning-with-PyTorch-HuggingFace/tree/main/synthetic-data-generation) |
+
+## Coding LLMs from scratch using PyTorch
+| Description	| Link |
+|----------|-------------|
+| Coding LLMs from scratch using PyTorch | [Repository](https://github.com/akashmathur-2212/Deep-Learning-with-PyTorch-HuggingFace/tree/main/transformers_from_scratch) |
 
 **1. Conversational AI (Chatbot 🤖) with RAG using LangChain🦜️ & LlamaIndex🦙**
 - Comprehensive Guide to Customize your `Llama2` ChatBot using LlamaIndex and Streamlit [[Medium](https://akash-mathur.medium.com/comprehensive-guide-to-customize-your-llama2-chatbot-with-llamaindex-and-streamlit-76bbd041eafc), [GitHub](https://github.com/akashmathur-2212/LLMs-playground/tree/main/LlamaIndex-applications/llama2-multi-documents-chatbot)]
